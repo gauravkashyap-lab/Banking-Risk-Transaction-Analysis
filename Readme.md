@@ -124,9 +124,9 @@ Python is used for:
 
 ---
 
-# 📊 Tableau Dashboard
+# 📊 Power BI Dashboard
 
-The Tableau dashboard provides an interactive executive view of banking transactions.
+The Power BI dashboard provides an interactive executive view of banking transactions.
 
 ### Dashboard Features
 
@@ -199,12 +199,12 @@ Run the Jupyter Notebook or Python script.
 
 # 📷 Dashboard Preview
 
-> Add your Power BI dashboard screenshot here.
+> Images/dashboard image.png
 
-Example:
+
 
 ```
-Images/dashboard image.png
+
 ```
 
 ---
