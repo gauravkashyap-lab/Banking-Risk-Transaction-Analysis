@@ -199,7 +199,7 @@ Run the Jupyter Notebook or Python script.
 
 # 📷 Dashboard Preview
 
-> Images/dashboard image.png
+> Images/Dashboard.png
 
 
 
