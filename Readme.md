@@ -197,10 +197,11 @@ Run the Jupyter Notebook or Python script.
 
 ---
 
-# 📷 Dashboard Preview
 
-> Images/Dashboard.png
 
+## 📷 Dashboard Preview
+
+![Dashboard Preview](Bank%20RIsk%20and%20fraud%20analysiss/Images/Dashboard.png)
 
 
 ```
